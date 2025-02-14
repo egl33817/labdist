@@ -616,9 +616,13 @@ Ya sólo queda añadir estos ficheros a la `staging area`, hacer el `commit` cor
 
 <img src="./Actividad%20evaluable%202%20-%20Git%20y%20GitHub.assets/image-20250214165632143.png" alt="image-20250214165632143" style="zoom:80%;border:1px solid black;" />
 
+<img src="./Actividad%20evaluable%202%20-%20Git%20y%20GitHub.assets/image-20250214165907922.png" alt="image-20250214165907922" style="zoom:67%;border:1px solid black;" />
+
 Compruebo que tengo la documentación disponible en **GitHub**:
 
+![image-20250214170046523](./Actividad%20evaluable%202%20-%20Git%20y%20GitHub.assets/image-20250214170046523.png)
 
+![image-20250214170124383](./Actividad%20evaluable%202%20-%20Git%20y%20GitHub.assets/image-20250214170124383.png)
 
 ## 6. Enlaces de interés
 
