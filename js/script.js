@@ -22,5 +22,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (!valid) {
             event.preventDefault();
         }
+
+        if (mensaje.value.trim() === "") 
+        {
+            alert("Ingrese un mensaje, por favor");
+            valid = false;
+        }
     });
 });
