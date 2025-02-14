@@ -622,12 +622,14 @@ Compruebo que tengo la documentación disponible en **GitHub**:
 
 ![image-20250214170046523](./Actividad%20evaluable%202%20-%20Git%20y%20GitHub.assets/image-20250214170046523.png)
 
-![image-20250214170124383](./Actividad%20evaluable%202%20-%20Git%20y%20GitHub.assets/image-20250214170124383.png)
+
 
 ## 6. Enlaces de interés
 
-### 6.1 Repositorio en GitHub
+### 6.1 Enlace al repositorio remoto en GitHub
 
 https://github.com/egl33817/labdist
 
-### 6.2 Vídeo solicitado para la práctica
+### 6.2 Enlace al vídeo solicitado para la práctica
+
+[delgado_sanchez_roberto_Tarea2_DAW_Git.mp4](https://educastur-my.sharepoint.com/:v:/g/personal/egl33817_educastur_es/EfBP_2_M_dBMm1EsiSr1SjIBtIGbqhr4nGsWlDWdDdi33A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&email=minesmp@educastur.org&e=8nqkOd)
